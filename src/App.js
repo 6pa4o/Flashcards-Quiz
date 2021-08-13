@@ -96,7 +96,6 @@ function App() {
           <select id="category" ref={categoryEl}>
             {
               categories.map(category => {
-                // const index = `${category.id}-${Date.now()}`;
                 return <option value={category.id} key={category.id}>{category.name}</option>
               })
             }

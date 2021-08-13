@@ -1,5 +1,13 @@
-# Simple Flash card Quiz app for practice ReactJS skills. #
+# Simple Flash card Quiz
+
+I created this app for practice ReactJS skills.
 
 HOOKS: *useState, useEffect, useRef.*
 
-*fetch (https://opentdb.com/api_config.php), async/await*
+*fetch, async/await*
+
+*getBoundingClientRect*
+
+[The Open Trivia Database](https://opentdb.com/api_config.php)
+
+[Источник](https://youtu.be/hEtZ040fsD8)
